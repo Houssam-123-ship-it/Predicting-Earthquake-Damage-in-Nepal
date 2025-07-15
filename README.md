@@ -84,7 +84,6 @@ Data is sourced from a SQLite database and includes real building structure and 
 
 This project was an exciting opportunity to apply theory to real-world disaster data. It challenged my ability to think critically, model responsibly, and communicate results clearly.
 
-📁 GitHub: [ashraf635sakr/earthquake-damage-in-nepal](https://github.com/ashraf635sakr/earthquake-damage-in-nepal)
 
 ---
 
