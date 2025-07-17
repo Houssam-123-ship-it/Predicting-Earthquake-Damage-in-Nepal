@@ -48,11 +48,11 @@ This project is part of the **Applied Data Science Lab** by WorldQuant Universit
 
 * SQL data extraction & schema understanding
 * Data cleaning & visualization (EDA)
-* Classification modeling (LogReg & Tree-based)
+* Perform a randomized train-test split
+* Classification modeling (logistic regression  & decision tree clssifier model for classification)
 * Model tuning and evaluation
 * Ethical considerations in machine learning
 * Communication of technical findings
-
 ---
 
 ## 🛠️ Dependencies
